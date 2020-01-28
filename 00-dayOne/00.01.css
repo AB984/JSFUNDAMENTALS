@@ -1,0 +1,35 @@
+h1  {
+    color: lightsalmon;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+h3  {
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+p   {
+    color: red;
+    font-family: sans-serif;
+}
+
+.entireTruths {
+    border: 10px solid black;
+    border-radius: 7px;
+    background-color: cyan;
+    border-width: thick;
+    height: 444px;
+}
+
+.eachTruth {
+    border: 5px groove plum;
+    border-radius: 5px;
+    background-color: lightsalmon;
+    text-align: center;   
+}
+
+.sideBySide {
+    display: flex;
+    justify-content: space-evenly;
+}
